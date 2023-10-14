@@ -1,15 +1,15 @@
 <?php 
 
-// define('NAMA', 'Sandhika Galih');
+// define('NAMA', 'Anggi');
 // echo NAMA;
 
 // echo "<br>";
 
-// const UMUR = 32;
+// const UMUR = 20;
 // echo UMUR;
 
 // class Coba {
-//     const NAMA = 'Sandhika';
+//     const NAMA = 'Anggi';
 // }
 
 // echo Coba::NAMA;

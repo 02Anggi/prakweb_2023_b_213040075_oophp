@@ -18,7 +18,7 @@ class Produk {
 
 // $produk2 = new Produk();
 // $produk2->judul = "Uncharted";
-// $produk2->tambahProperty = "hahaha";
+// $produk2->tambahProperty = "hehehe";
 // var_dump($produk2);
 
 $produk3 = new Produk();

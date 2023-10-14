@@ -137,7 +137,7 @@ class CetakInfoProduk {
 // echo $produk2->getHarga();
 // echo "<hr>";
 
-// $produk1->setPenulis("Sandhika Galih");
+// $produk1->setPenulis("Anggi");
 // echo $produk1->getPenulis();
 
 
